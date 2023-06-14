@@ -1,2 +1,2 @@
 # Aplikasi-TodoList
-Aplikasi TOdo list hanya bisa dijalankan dengan menggunakan Terminal
+Aplikasi TOdo list ini hanya bisa dijalankan dengan menggunakan Terminal 
